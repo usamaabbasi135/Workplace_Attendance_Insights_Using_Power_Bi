@@ -49,9 +49,9 @@ Delivered an executive-ready report to HR with recommendations for:
 
 | File / Folder | Description |
 |---------------|-------------|
-| `Jacobs_HR_PowerBI.pbix` | Main Power BI file |
-| `Attendance_April.xlsx` `Attendance_May.xlsx` `Attendance_June.xlsx` | Raw monthly attendance data |
-| `HR_Analytics_Report.pdf` | Final formatted report submitted to HR |
+| `Jacob Limited HR Analytics.pbix` | Main Power BI file |
+| `Attendance Sheet 2022-2023_Masked` | Raw monthly attendance data |
+| `Workplace Attendance Insights Using Power BI Case Study with Jacobs Ltd.pdf` | Final formatted report submitted to HR |
 | `README.md` | Project overview |
 
 ---
